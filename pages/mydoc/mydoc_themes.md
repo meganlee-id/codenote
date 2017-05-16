@@ -12,7 +12,7 @@ folder: mydoc
 {% include note.html content="The [gem-based theme](https://jekyllrb.com/docs/themes/) approach is not yet integrated into this theme." %}
 
 ## Theme options
-You can choose a green or blue theme, or you can create your own. In the css folder, there are two theme files: theme-blue.css and theme-green.css. These files have the most common CSS elements extracted in their own CSS file. Just change the hex colors to the ones you want.
+You can choose a green or blue theme, or you can create your own. In the css folder, there are two theme files: theme-pink.css and theme-green.css. These files have the most common CSS elements extracted in their own CSS file. Just change the hex colors to the ones you want.
 
 In the \_includes/head.html file, specify the theme file you want the output to use &mdash; for example, `theme_file: theme-green.css`. See this line:
 
